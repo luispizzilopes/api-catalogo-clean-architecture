@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JOX0xSpbR9AEYCIzk6EDTy4ztPyoTdnQNl1uBtyM0wHYxz0/A3EYWqPITR+5i3Y4zMVimo8K5EbiMrN7Par2uQ==",
+  "dgSpecHash": "UC7GHF68pHcOq1+mXV9+ZLEzWybiOTyqY/IT5bCRSvyT+jZerh+e8TdEfliUUYYq8TEnsUODC3YkSbzaatgQ9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
