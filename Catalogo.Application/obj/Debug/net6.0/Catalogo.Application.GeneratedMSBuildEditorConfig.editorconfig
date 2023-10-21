@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Catalogo.Application
-build_property.ProjectDir = C:\Users\PC\source\repos\Catalogo\Catalogo.Application\
+build_property.ProjectDir = D:\_Cursos_Macoratti\Curso_Web_API_Essencial\14_Arquitetura_Limpa\Catalogo_CleanArch\Catalogo\Catalogo.Application\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0CUdDWH2fSlXmdfQtI1atvHDv9Bt7q1Wc/8kg6mkSTz+eVh10vqcPlEkIvyNL2NKPvbylpf3vd3d8Uz4UqfXQ==",
+  "dgSpecHash": "78DDGLRPp8wP0M9e47hiojjYT1Hs4XSYDgi5wqO1SSPvSlJNX4HQ42BLH3n0GMGiC7J/gcsWvefCgB+9gAvR/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj",
+  "projectFilePath": "D:\\_Cursos_Macoratti\\Curso_Web_API_Essencial\\14_Arquitetura_Limpa\\Catalogo_CleanArch\\Catalogo\\Catalogo.Domain\\Catalogo.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
